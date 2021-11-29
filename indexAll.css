@@ -37,7 +37,7 @@
 
 .grid {
     display: flex;
-    max-width: 402px;
+    max-width: 403px;
 
     justify-content: center;
     box-sizing: border-box;
@@ -52,7 +52,7 @@
 }
 
 .mole:hover {
-    background-color: rgb(231, 113, 113);
+
     cursor: pointer;
 }
 
