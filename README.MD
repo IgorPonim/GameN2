@@ -4,5 +4,5 @@ ___________________________
 Project was made just for fun and training. [open](https://igorponim.github.io/GameN2/)
 _________________________
 
-Whac-A-Mole! famous japan game with open patterns
+Whac-A-Mole! a famous japan game with open patterns
 
